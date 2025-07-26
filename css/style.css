@@ -8,3 +8,6 @@
   font-variation-settings: "wdth" 100;
 }
 
+.join-bg {
+  background-image: url("../assets/news-letter-bg.png");
+}
